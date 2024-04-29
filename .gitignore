@@ -126,4 +126,3 @@ db.sqlite3
 
 # static folder
 static/CACHE
-static/src
